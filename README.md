@@ -1,5 +1,6 @@
 # NaverMovie_Textminig
-네이버 영화 리뷰 수집 크롤러를 사용하여 얻은 데이터 분석
+네이버 영화 리뷰 수집 크롤러를 사용하여 얻은 데이터 분석하기
+With R
 
 
 ver 1.0 uploaded 22/04/28
